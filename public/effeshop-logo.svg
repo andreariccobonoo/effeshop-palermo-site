@@ -1,0 +1,31 @@
+<svg width="620" height="170" viewBox="0 0 620 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Effeshop Palermo</title>
+  <desc id="desc">Logo Effeshop con simbolo tecnico ispirato a chiave, bullone e ferramenta</desc>
+  <defs>
+    <linearGradient id="gold" x1="36" y1="22" x2="142" y2="148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8C84E"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="186" y1="40" x2="490" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D7DADF"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M85 8L151.7 46.5V123.5L85 162L18.3 123.5V46.5L85 8Z" fill="#171A1F" stroke="url(#gold)" stroke-width="9"/>
+    <path d="M82 39H126" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M82 85H119" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M82 131H126" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M51 39V131" stroke="white" stroke-opacity="0.94" stroke-width="12" stroke-linecap="round"/>
+    <path d="M53 85H82" stroke="white" stroke-opacity="0.94" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="121" cy="85" r="15" stroke="white" stroke-opacity="0.94" stroke-width="9"/>
+    <path d="M134 72L148 58" stroke="white" stroke-opacity="0.94" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <text x="186" y="94" fill="url(#dark)" font-family="Inter, Arial, Helvetica, sans-serif" font-size="62" font-weight="900" letter-spacing="-2.8">Effeshop</text>
+    <text x="190" y="130" fill="#F2B431" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="800" letter-spacing="7">PALERMO</text>
+    <path d="M190 146H485" stroke="#F2B431" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

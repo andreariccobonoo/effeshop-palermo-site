@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Effeshop Palermo">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#24262a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#f2b431" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#f2b431" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="160" cy="150" r="62" fill="#f2b431"/>
+  <text x="160" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="70" font-weight="900" fill="#111">E</text>
+  <text x="90" y="300" font-family="Arial, sans-serif" font-size="78" font-weight="900" fill="#fff">Effeshop Palermo</text>
+  <text x="92" y="370" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#f2b431">Ferramenta • Duplicazione chiavi • Telecomandi</text>
+  <text x="92" y="440" font-family="Arial, sans-serif" font-size="30" fill="#d6d6d6">Piazza Rossi, 11 – 90147 Palermo</text>
+  <rect x="90" y="505" width="330" height="60" rx="30" fill="#f2b431"/>
+  <text x="255" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="900" fill="#111">Chiama ora</text>
+</svg>
